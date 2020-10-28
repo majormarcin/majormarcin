@@ -38,13 +38,9 @@ You're probably looking for that repository ->
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="MajorMarcin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=majormarcin&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://zelkowski.dev
 [discord]: https://discord.gg/cyJtwG6
