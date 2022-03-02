@@ -39,12 +39,12 @@ You're probably looking for that repository ->
 
 <br />
 <br />
-  <img align="left" alt="MajorMarcin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=majormarcin&show_icons=true&hide_border=true" />
+  <img align="left" alt="MajorMarcin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=majormarcin&show_icons=true" />
 
 
 
 [website]: https://zelkowski.dev
-[discord]: https://discord.gg/cyJtwG6
+[discord]: https://discord.gg/KPhXW8XG7E
 [twitter]: https://twitter.com/MajorMarcin
 [youtube]: https://youtube.com/c/majormarcin
 [instagram]: https://instagram.com/majormarcin
