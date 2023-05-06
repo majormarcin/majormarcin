@@ -7,9 +7,8 @@ You're probably looking for that repository ->
 
 ## I'm a Developer and sysAdmin!!
 
-- 🎉 I'm 24 years
+- 🎉 I'm 27 years
 - 🌱 I'm currently learning everything 🤣
-- 👯 I'm looking to collaborate with other content creators
 - ⚡ Fun fact: I love pancakes
 
 ### Connect with me:
